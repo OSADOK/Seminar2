@@ -1,0 +1,15 @@
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\bin\Debug\net6.0\Tusk.exe
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\bin\Debug\net6.0\Tusk.deps.json
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\bin\Debug\net6.0\Tusk.runtimeconfig.json
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\bin\Debug\net6.0\Tusk.dll
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\bin\Debug\net6.0\Tusk.pdb
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.csproj.AssemblyReference.cache
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.AssemblyInfoInputs.cache
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.AssemblyInfo.cs
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.csproj.CoreCompileInputs.cache
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.dll
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\refint\Tusk.dll
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.pdb
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\Tusk.genruntimeconfig.cache
+C:\Users\OSADOK\Desktop\Семинар 2 Урок 2. Массивы и функции в программировании\Tusk1\ПЗ Семинар 2 Урок 2. Массивы и функции в программировании\Tusk\obj\Debug\net6.0\ref\Tusk.dll
